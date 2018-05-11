@@ -12,6 +12,7 @@ export default [
   ['layout/grid-lists', 'layout/GridLists'],
   ['layout/spacing', 'layout/Spacing'],
   ['layout/alignment', 'layout/Alignment'],
+  ['layout/breakpoints', 'layout/Breakpoints'],
   ['layout/display', 'layout/Display'],
   ['layout/elevation', 'layout/Elevation'],
   ['layout/sandbox', 'layout/Sandbox'],
